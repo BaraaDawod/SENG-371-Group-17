@@ -14,7 +14,7 @@ function App({ signOut }) {
     <View className="App">
       <Card>
         <Image src={logo} className="App-logo" alt="logo" />
-        <Heading level={1}>barra Smells Werid</Heading>
+        <Heading level={1}>MMore functionality to be added!</Heading>
       </Card>
       <Button onClick={signOut}>Sign Out</Button>
     </View>
